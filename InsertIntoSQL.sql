@@ -1,0 +1,1 @@
+INSERT INTO dbo.Fournisseur (ID, Nom) VALUES ('1', 'Française d''imports'), ('2' , 'FDM SA'), ('3', 'Dubois & Fils');
